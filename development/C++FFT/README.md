@@ -46,6 +46,7 @@ Solution: If it's not fill with next size and fill remaining spaces with 0s
 
 **Extra Picture Explanations for Cooley-Tukey** :
 * Splitting
- ![Figure 1](Images/Splitting.png?raw=true)
+![Figure 1](Images/Splitting.png?raw=true)
+ 
 * Final Step
 ![Figure 1](Images/PseudoCode.png?raw=true)
