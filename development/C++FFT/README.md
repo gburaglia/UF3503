@@ -2,7 +2,7 @@
 
 ## What is FFT?
 * Optimized computational algorithm to implement the Discreet Fourier Transform
-* Factorizes DFT matrix into a product of
+* Factorizes DFT matrix into a product of factors
 * Many was to implement
 
 
