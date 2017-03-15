@@ -31,11 +31,11 @@ Solution: If it's not fill with next size and fill remaining spaces with 0s
 
 ### Further definitions:
 
-** Twiddle factor ** :
+**Twiddle factor** :
 * In FFT algorithms, refers to trigonometric constant coefficients that are multiplied by the data in the course of the algorithm ![Figure 1](Images/Factors.png?raw=true)
 * Step 3 in
 
-** Bit Reversal ** :
+**Bit Reversal** :
 * Makes the mathematical calculations of the second part easier.
 ![Figure 1](Images/BitReversal2.png?raw=true)
 
@@ -44,7 +44,7 @@ Solution: If it's not fill with next size and fill remaining spaces with 0s
 
 
 
-** Extra Picture Explanations for Cooley-Tukey ** :
+**Extra Picture Explanations for Cooley-Tukey** :
 * Splitting
  ![Figure 1](Images/Splitting.png?raw=true)
 * Final Step
