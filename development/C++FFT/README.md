@@ -50,3 +50,10 @@ Solution: If it's not fill with next size and fill remaining spaces with 0s
  
 * Final Step
 ![Figure 1](Images/PseudoCode.png?raw=true)
+
+### Main information sources:
+* https://www.codeproject.com/Articles/9388/How-to-implement-the-FFT-algorithm
+* http://www.katjaas.nl/bitreversal/bitreversed.html
+* http://www.ti.com/lit/an/spna071a/spna071a.pdf
+### Main code source:
+* https://www.nayuki.io/page/free-small-fft-in-multiple-languages
