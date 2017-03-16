@@ -5,6 +5,7 @@
 //  Main information sources:
 //  https://www.codeproject.com/Articles/9388/How-to-implement-the-FFT-algorithm
 //  http://www.katjaas.nl/bitreversal/bitreversed.html
+//  http://www.ti.com/lit/an/spna071a/spna071a.pdf
 //  Main code source:
 //  https://www.nayuki.io/page/free-small-fft-in-multiple-languages
 //  Created by Gabriela Buraglia on 3/13/17.
